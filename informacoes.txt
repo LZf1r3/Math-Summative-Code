@@ -1,0 +1,22 @@
+Informacoes:
+
+opcao A:
+Precisa pegar os tickets da zona 1 e 2 
+
+opcao B:
+precisa pegar os tickets da zona 1
+
+tickets unicos com cartao de credito/debito:
+zona 1 = 3.10
+zona 2 = 4.45
+
+tickets unicos com compass card:
+zona 1 = 2.50
+zona 2 = 3.65
+
+tickes mensais:
+zona 1 = 102.55
+zona 2 = 137.10
+
+tickets dia todo:
+todas as zonas = 11
