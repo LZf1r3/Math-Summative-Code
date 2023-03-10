@@ -133,7 +133,7 @@ def trabalho_de_matematica():
         print("---------------------------------------------------------------")
         print("If you choose to buy the single ticket for zone '1' and '2', and pay with credit/debit card, the price per month would be ${}\n".format(preco_mensal_ticket_unico_cartao))
         print("If you choose to buy the single ticket for zone '1' and '2', and pay with the compass card, the price per month would be ${}\n".format(preco_mensal_ticket_unico_compass))
-        print("If you choose to buy the 'All Day' ticket, the price per month would be {}\n".format(preco_mensal_ticket_dia_todas_as_zonas))
+        print("If you choose to buy the 'All Day' ticket, the price per month would be ${}\n".format(preco_mensal_ticket_dia_todas_as_zonas))
         print("If you choose to buy the whole month ticket, the price would be ${}\n".format(preco_mensal_ticket_mes))
         print("Thank you for using LZ's services. We'll wait for you!")
         novamente_ou_nao_ingles()
